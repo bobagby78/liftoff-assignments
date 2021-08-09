@@ -12,12 +12,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Features
 - **User login:** Users will be able to log in, either by creating accounts in the system, or by using a third-party authentication provider (e.g. Google Authentication). All access to the site will be restricted to logged-in users. (not counted in final tally)
-- Create and update pantry: Users will be able to create and update their pantry by entering in a mixture of required (ingredients and amount of ea. ingredient in oz., lbs., etc.).
-- **Create and update events skills and tools:** Users will be able to create and update their profile by entering in a mixture of required (tools eg. oven, stovetop, microwave, pots/pans, and skills eg. julienne, chop, sauté, etc.).
+- **Create and update pantry:** Users will be able to create and update their pantry by entering in a mixture of required ingredients and amount of ea. ingredient in oz., lbs., etc..
+- **Create and update skills and tools:** Users will be able to create and update their profile by entering in a mixture of required tools (e.g. oven, stovetop, microwave, pots/pans, and skills e.g. julienne, chop, sauté, etc.).
 - **Create and update shopping list:** Users will be able to create and update a shopping list of ingredients and tools that they run out of. 
 - **View and search for recipes:** Users will be able to view a listing of recipes, and by clicking on a recipe, view details about that recipe. Users can also search for recipes with a specific ingredient (eg. search for recipes with chicken, rice, broccoli, etc.).
 - **Upload recipes:** Users will be able to upload their own recipes to the database and tag their different ingredients involved.
-- **Filter recipes:** Users will be able to refine recipe results shown based on selected criteria (eg. ingredients, tools, and/or skills). 
+- **Filter recipes:** Users will be able to refine recipe results shown based on selected criteria (e.g. ingredients, tools, and/or skills). 
 
 ### Technologies
 Back End- Will be completed by Jacob & Jon 
